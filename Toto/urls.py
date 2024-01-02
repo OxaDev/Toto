@@ -17,9 +17,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 #Toto
-
-# Bouton rouge
-
+#Bouton rouge
+#Bouton bleu
 #TOTO visual studio
 urlpatterns = [
     path('admin/', admin.site.urls),
