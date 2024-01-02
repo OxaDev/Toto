@@ -18,6 +18,8 @@ from django.contrib import admin
 from django.urls import path
 #Toto
 
+# Bouton rouge
+
 #TOTO visual studio
 urlpatterns = [
     path('admin/', admin.site.urls),
